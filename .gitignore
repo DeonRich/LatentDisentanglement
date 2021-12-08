@@ -5,5 +5,18 @@ __pycache__/
 
 # Ignores dataset, checkpoints and logs
 *.jpg
+*.png
 *.pth
+*.npy
+*.weights
 events.*
+data/
+out/
+paper/
+pics/
+pics2/
+processed/
+saved/
+infogan/__pycache__/
+infogan/data/
+infogan/images/
